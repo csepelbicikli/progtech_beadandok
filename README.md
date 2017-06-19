@@ -1,1 +1,1 @@
-﻿
+﻿# Programozási technológia beadandók
